@@ -1,0 +1,6 @@
+name,email,city,role,Send,Sent At,Result
+Alex Rivera,alex.rivera@example.com,Austin,Designer,yes,,
+Sam Patel,sam.patel@example.com,Denver,Engineer,,,
+Jordan Lee,jordan.lee@example.com,Seattle,Manager,yes,,
+Taylor Kim,taylor.kim@example.com,Houston,Founder,yes,2026-07-07 14:02:11 UTC,sent
+Morgan Cruz,morgan.cruz@example.com,Houston,Analyst,no,,
